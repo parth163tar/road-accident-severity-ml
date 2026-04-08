@@ -149,9 +149,4 @@ jupyter notebook notebook/BBM110_final.ipynb
 
 ---
 
-## Author
-
-**Aston University — BBM110 Machine Learning for Business Analytics**  
-Academic Year 2025/26
-
 *Note: Generative AI (Claude) was used as a support tool to assist with writing Python code. All written commentary and analysis is my own.*
