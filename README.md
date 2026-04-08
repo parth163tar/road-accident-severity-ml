@@ -148,5 +148,3 @@ jupyter notebook notebook/BBM110_final.ipynb
 - Build a simple **risk scoring API** for integration with a booking system
 
 ---
-
-*Note: Generative AI (Claude) was used as a support tool to assist with writing Python code. All written commentary and analysis is my own.*
