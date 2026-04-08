@@ -1,5 +1,4 @@
 # Road Accident Severity Prediction
-### BBM110 – Machine Learning for Business Analytics | Aston University
 
 A supervised machine learning project that predicts the severity of road accidents (Fatal, Serious, or Slight) using real UK accident data. Built for a car rental company use case: flagging high-risk trips before the keys are handed over.
 
