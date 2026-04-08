@@ -147,4 +147,3 @@ jupyter notebook notebook/BBM110_final.ipynb
 - Add features: trip distance, weather, driver history, vehicle safety rating
 - Build a simple **risk scoring API** for integration with a booking system
 
----
